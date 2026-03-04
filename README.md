@@ -17,6 +17,11 @@
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 
+[![DiorDevv's github stats](https://github-readme-stats.vercel.app/api?username=DiorDevv&theme=github_dark&show_icons=true)](https://github.com/DiorDevv/)
+
+<!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiorDevv&theme=tokyonight_duo&hide_border=true)](https://github.com/DiorDevv/)
 
 **Back-end**
 
