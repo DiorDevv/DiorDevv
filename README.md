@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Axmadjonov%20Diyorbek&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=⚡%20Backend%20Developer%20%7C%20Python%20%26%20Django%20Engineer&descAlignY=68&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
 </div>
 
@@ -8,161 +8,202 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=🐍+Python+%26+Django+Backend+Developer;🏗️+Building+Scalable+REST+APIs;🐳+Docker+%7C+Linux+%7C+PostgreSQL+Expert;🚀+Clean+Code+%26+Best+Practices+Advocate;🇺🇿+Proud+Developer+from+Uzbekistan)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=DiorDevv&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/DiorDevv?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/DiorDevv?tab=followers)
-&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/DiorDevv?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/DiorDevv)
-
-</div>
-
----
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif"/>
-
-## 🧠 About Me
-
-```yaml
-👤  Name     : Axmadjonov Diyorbek
-🌍  Location : Uzbekistan 🇺🇿
-💼  Role     : Backend Developer
-🎯  Focus    : Python · Django · REST API
-🐳  DevOps   : Docker · Linux · Nginx
-📬  Email    : diyorbekaxmadjonov98@gmail.com
-💬  Telegram : @mee_dior
-
-🔥  Passions:
-     - Clean Architecture & SOLID principles
-     - High-performance API development
-     - Scalable microservices
-     - Open Source contributions
-
-🌱  Currently Learning:
-     - FastAPI & Async Python
-     - Kubernetes & CI/CD
-     - System Design Patterns
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          AXMADJONOV DIYORBEK  ·  Backend Engineer            ║
+║          Python · Django · PostgreSQL · Docker               ║
+║                    Uzbekistan 🇺🇿                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br clear="right"/>
-
----
-
-## ⚙️ Tech Stack & Tools
-
-<div align="center">
-
-### 🐍 Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,celery&theme=dark" />
-</p>
-
-### 🗄️ Databases & Cache
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark" />
-</p>
-
-### 🛠️ DevOps & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,gitlab,bash&theme=dark" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
-</p>
-
 </div>
 
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DiorDevv&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiorDevv&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Designing+systems+that+scale.;Writing+code+that+lasts.;Solving+problems+that+matter.)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=DiorDevv&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8b949e&stroke=00D9FF" />
+
+![](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![](https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django&logoColor=092E20)
+![](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791)
+![](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![](https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![](https://img.shields.io/badge/-Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
+![](https://img.shields.io/badge/-Nginx-0D1117?style=flat-square&logo=nginx&logoColor=009639)
+![](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiorDevv&theme=github_dark" width="100%" />
-</div>
-
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiorDevv&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</div>
-
----
-
-## ⏱️ Weekly Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShukuraliProgrammer&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact&langs_count=8" width="70%" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiorDevv&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF20&area=true&hide_border=true&custom_title=Diyorbek's%20Contribution%20Graph" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiorDevv/DiorDevv/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiorDevv/DiorDevv/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DiorDevv/DiorDevv/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shukurali-rezamonov/)
-&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mee_dior)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyorbekaxmadjonov98@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiorDevv)
+## `$ whoami`
+
+<table>
+<tr>
+<td width="55%">
+
+```python
+class Engineer:
+    name     = "Axmadjonov Diyorbek"
+    role     = "Backend Developer"
+    location = "Uzbekistan 🇺🇿"
+    timezone = "UTC+5 (Tashkent)"
+    
+    stack = {
+        "language"  : ["Python"],
+        "framework" : ["Django", "DRF", "Celery"],
+        "database"  : ["PostgreSQL", "SQLite", "Redis"],
+        "devops"    : ["Docker", "Nginx", "Linux"],
+        "cloud"     : ["DigitalOcean"],
+        "tools"     : ["Git", "Postman", "GitLab CI"],
+    }
+
+    principles = [
+        "SOLID & Clean Architecture",
+        "API-first development",
+        "Test-driven mindset",
+        "Performance over complexity",
+    ]
+
+    currently = [
+        "FastAPI & async Python",
+        "Microservices patterns",
+        "System Design",
+    ]
+```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="260"/>
 
 <br/><br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+[![Email](https://img.shields.io/badge/diyorbekaxmadjonov98%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:diyorbekaxmadjonov98@gmail.com)
+
+[![Telegram](https://img.shields.io/badge/@mee__dior-0D1117?style=flat-square&logo=telegram&logoColor=2CA5E0)](https://t.me/mee_dior)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/shukurali-rezamonov/)
+
+[![GitHub](https://img.shields.io/badge/github.com%2FDiorDevv-0D1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/DiorDevv)
+
+</td>
+</tr>
+</table>
 
 <br/>
+
+---
+
+<br/>
+
+## `$ git log --stat`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DiorDevv&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E&ring_color=30363D" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiorDevv&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" />
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=DiorDevv&hide_border=true&background=0D1117&ring=30363D&fire=E6EDF3&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=484F58&stroke=30363D&currStreakNum=E6EDF3&sideNums=E6EDF3" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$ htop` — Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DiorDevv&bg_color=0D1117&color=8B949E&line=30363D&point=E6EDF3&area_color=161B22&area=true&hide_border=true&custom_title=Contribution+Activity" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$ ls ./achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DiorDevv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$ tail -f ./wakatime.log`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShukuraliProgrammer&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&layout=compact&langs_count=8" width="65%" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$ watch ./snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiorDevv/DiorDevv/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiorDevv/DiorDevv/output/github-snake.svg"/>
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/DiorDevv/DiorDevv/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=DiorDevv&color=8b949e&style=flat-square&label=profile+views)
+
+<br/>
+
+```
+"Make it work. Make it right. Make it fast."
+                                   — Kent Beck
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=footer" width="100%"/>
 </div>
