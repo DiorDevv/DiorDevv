@@ -47,7 +47,7 @@
   "location" : "Tashkent, Uzbekistan 🇺🇿",
   "timezone" : "UTC+5",
   "email"    : "diyorbekaxmadjonov98@gmail.com",
-  "telegram" : "@mee_dior",
+  "telegram" : "@uzbtgm",
 
   "focus": [
     "Scalable REST API Design",
