@@ -21,7 +21,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:diyorbekaxmadjonov98@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/uzbtgm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shukurali-rezamonov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/diyorbek-axmadjonov-4113a9338/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/DiorDevv)
 ![Visitors](https://komarev.com/ghpvc/?username=DiorDevv&color=58a6ff&style=for-the-badge&label=VISITORS)
 
